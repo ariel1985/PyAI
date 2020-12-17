@@ -58,7 +58,7 @@ Python is not strongly typed means we can use the same variable name for differe
 3. Create a script that asks the user for the height and width of a triangle and prints the area of the triangle as an integer
 4. What is the type (or error) of each of the variables (try to find out before checking them with type() function):
    
-
+```
     x = 1
     x = '1'
     x = "3.14159"
@@ -81,7 +81,7 @@ Python is not strongly typed means we can use the same variable name for differe
     x = 4/4
     x = 0/8
     x = 8/0
-
+```
     
 
    
